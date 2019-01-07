@@ -43,4 +43,4 @@ Note: The first code cell is used to download the test dataset from Google hence
 ### **Credits:**
 Codes used in this repo is adapted from notebooks, files and lessons from the [Udacity Pytorch Scholarship Challenge Nanodegree Program](https://www.udacity.com/facebook-pytorch-scholarship).
 
-Original Markdown cells from the program have been left in the notebook to help facilite understanding and navigation
+Original Markdown cells from the program have been left in the notebook to help facilitate understanding and navigation
