@@ -20,13 +20,15 @@ Please kindly ensure that the following packages are installed prior to running 
     ├───test
     ├───train
     └───valid
+├───cat_to_name.json
+├───Image Classifier Project.ipynb
 ```
 
 #### Folders:
 * **flower_data:** Contains the training, validation and, testing dataset used for the project
 
 #### Files:
-* **cat_to_name.json:** Json file containing mapping of categories to actual flower names
+* **cat_to_name.json:** Json file containing mapping of categories to actual flower names (Contains the state dict)
 * **checkpoint.pth:** Pytorch model checkpoint file
 * **Image Classifier Project.ipynb:** Notebook containing the codes to run the project
 
