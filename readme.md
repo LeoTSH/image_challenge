@@ -34,7 +34,7 @@ Please kindly ensure that the following packages are installed prior to running 
 
 ### **Usage:**
 1. Clone or download the repo
-2. Install the require packages (Skip if this step has been completed)
+2. Install the required packages (Skip if this step has been completed)
 3. Start the notebook `jupyter notebook` and open **Image Classifier Project.ipynb**
 4. Run the code cells sequentially to process the dataset, train and, evaluate the model
 
